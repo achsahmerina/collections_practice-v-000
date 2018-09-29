@@ -1,4 +1,4 @@
 
-def sort_array_asc(sort)
-  
+def sort_array_asc(array)
+
 end
