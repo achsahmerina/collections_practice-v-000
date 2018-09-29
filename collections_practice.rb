@@ -20,3 +20,6 @@ def reverse_array(array)
   integers = array.reverse
   return integers
 end
+
+def kesha_maker(array)
+end
