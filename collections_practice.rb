@@ -8,5 +8,5 @@ def sort_array_desc(array)
 end
 
 def sort_array_char_count(array)
-  array.sort { |cat, horses| horses.length <=> cat.length}
+  array.sort {|cat, horses| cat.length <=> horses.length}
 end
